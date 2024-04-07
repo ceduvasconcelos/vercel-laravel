@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\URL;
 use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
